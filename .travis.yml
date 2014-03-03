@@ -4,6 +4,4 @@ jdk:
   - oraclejdk7
   - oraclejdk8
 notifications:
-  email:
-    - ansell.peter@gmail.com
-    - tristan.king@gmail.com
+  email:false
